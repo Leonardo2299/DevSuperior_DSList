@@ -4,7 +4,6 @@ DevSuperior - intensivão Java Spring
 O que foi aprendido:
 
 • Conceitos
-
 • Sistemas web e recursos
 
 • Cliente/servidor, HTTP, JSON
