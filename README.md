@@ -18,3 +18,7 @@ O que foi aprendido:
 • Database seeding
 
 • Padrão camada
+
+• Controller, service, repository
+
+• Padrão DTO
