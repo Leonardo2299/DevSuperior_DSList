@@ -22,3 +22,13 @@ O que foi aprendido:
 • Controller, service, repository
 
 • Padrão DTO
+
+• Perfis de projeto
+
+• Ambiente local com Docker Compose
+
+• Processo de homologação local
+
+• Processo de deploy com CI/CD
+
+• Configuração de CORS
